@@ -57,6 +57,4 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos para c
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-```
 
-Guarda este contenido en un archivo llamado `README.md` en la raíz de tu proyecto. Esto proporcionará una guía clara y completa sobre cómo inicializar y entender el proyecto.
