@@ -1,19 +1,3 @@
-Aquí tienes el archivo README.md para tu proyecto:
-
-```md
-# Hoof SVG Interactivo con React Native
-
-Este proyecto utiliza React Native y Expo para crear una aplicación interactiva que muestra un SVG de un casco (Hoof) dividido en diferentes zonas. Los usuarios pueden seleccionar estas zonas, que se resaltarán al hacer clic.
-
-## Requisitos Previos
-
-1. Tener Node.js y npm instalados.
-2. Tener Expo CLI instalado globalmente:
-   ```sh
-   npm install -g expo-cli
-   ```
-3. Tener una cuenta de GitHub para gestionar el repositorio.
-
 ## Pasos para Inicializar el Proyecto
 
 ### 1. Clonar el Repositorio
